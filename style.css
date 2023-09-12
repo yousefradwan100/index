@@ -1,0 +1,170 @@
+/* كل مايخص خلفيه الصفحه الرئيسه */
+.Home_Body{
+background-image: url(istockphoto-1435226158-612x612.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+width: 97%;
+height: 400vh;
+}
+button{
+background-color: rgba(17, 9, 9, 0.363);
+}
+/* navالروابط */
+.Nav_Edit{
+color:red;
+margin:10px;
+padding:0px;
+width: 70%;
+height: 50px;
+}
+/* كل مايخص الصور والمنتجات الصفحه  االرئيسيه */
+.Section{
+    display: flex;
+    justify-content: space-around;
+color: black;
+}
+/* hالعنوان ف الصفحه الرئيسيه */
+h1{
+    color: red;
+    text-align: right;
+    margin: 0px;
+    padding: 10px;
+    width: 100%;
+    height: 10vh;
+}
+/* bodyالمنتجات كلها */
+.body{
+background-color: rgba(148, 55, 139, 0.97);
+}
+/* تفاصيل  المنتجات*/
+.section_cs{
+    color: cadetblue;
+text-align: center;
+    display: flex;
+    justify-content: space-around;
+font-size: 30px;
+margin: 10px ;
+padding: 10px ;
+}
+/* صفحه التاكيد */
+.Confirm{
+    color: blueviolet;
+    font-size: 60px;
+}
+/* تاني صفحه صفحه المساعده */
+.Q{
+    color: rgba(0, 0, 0, 0.989);
+    margin: 0px;
+    padding: 0px;
+    width: 90%;
+    height: 10vh;
+}
+.ul_a{
+    /* background-image: url(file.jpg); */
+    background-position: center;
+
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+ background-color: bisque; 
+color: black;
+margin: 10px ;
+padding: 10px  ;
+width: 100%;
+height: 70vh;
+}
+.A{
+    background: color 0;;
+margin: 10px ;
+padding: 2px  ;
+width: 100%;
+height: 10vh;
+}
+.P{
+    color: brown;
+}
+.search{
+    color: red;
+    width: 20%;
+    height: 30px;
+}
+/* صفحه التواصل */
+.Body_Help{
+background-image: url(html.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+color: black;
+font-size: 20px;
+width: 90%;
+height: 90vh;
+
+}
+._Help{
+    background-color: rgba(0, 128, 0, 0.247);
+margin: 5px;
+    width: 30%;
+    height: 70px;
+    color: darkblue;
+}
+._help{
+    background-color:rgba(0, 128, 0, 0.247) ;
+    color: darkblue ;
+}
+html{
+    width: 100%;
+    height: 100%;
+}
+.AS{
+    background-color: aqua;
+}
+.login_form {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 10px solid lightcoral;
+border-radius: 10px;
+}
+.login_form label{
+    font-size: 30px;
+    font-weight: 30px;
+    color: black;
+
+}
+.login_form input{
+    width: 90%;
+    margin: 10px;
+     padding: 10px;
+     background-color: red;
+     border-radius: 10px;
+}
+
+.login_form select {
+    width: 20%;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.login_form button{
+    width: 70%;
+    margin: 10px;
+     padding: 10px;
+     background-color: red;
+     border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
